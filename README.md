@@ -23,14 +23,6 @@
   </a>
 </p>
 
-### 🛠️ Technologies Breakdown
-- **Languages:** JavaScript, TypeScript, Python, PHP, Go, Kotlin, Java, Flutter
-- **Operating System:** Windows, Linux
-- **Frontend:** React, Vue.js, Next.js, TailwindCSS, Bootstrap
-- **Backend:** Laravel, CodeIgniter, FastAPI
-- **Database & DevOps:** MySQL, PostgreSQL, MongoDB, Docker, Nginx, Cloudflare, Vercel, Netlify
-- **Tools:** Postman, Vscode, Supabase, Obsidian
-
 ---
 
 ## Statistics
