@@ -1,21 +1,51 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=machfudn&abbreviated=true" />
+<img align="right" src="https://komarev.com/ghpvc/?username=machfudn&abbreviated=true" alt="Profile Views" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Machfudin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Machfudin!;" alt="Typing SVG" />
 </h1>
 
-## About me:
+## About Me
 
-- 💻 I have experience with Python, JavaScript, and PHP, and I love turning ideas into real, working applications.
-- 🌱 I'm actively learning and deepening my skills in PHP, Python, and JavaScript, and I'm always eager to learn new things to hone my adaptability.
-- 👯 I'm looking to collaborate as a Web Developer in a dynamic and growth-oriented team.
+- 💻 I have experience with Python, JavaScript, TypeScript, PHP, Go, and Kotlin, and I love turning ideas into real, working applications.
+- 🌱 I'm actively learning and deepening my skills across modern full-stack frameworks and scalable architectures.
+- 👯 I'm looking to collaborate as a Web & Software Developer in a dynamic and growth-oriented team.
 - 🤝 I'm open to suggestions, feedback, and learning opportunities in both Front-End and Back-End development.
 - 💬 Ask me anything [here](https://github.com/machfudn/machfudn/issues)
 - 📫 How to reach me: [Contact App](https://kontak-saya.pages.dev/)
 
-## Statistic :
+---
 
-<div>
-  <a href="https://github.com/machfudn?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=machfudn&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=react&langs_count=6" />
-</div>
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,windows,js,ts,py,php,go,kotlin,react,vue,nextjs,express,java,laravel,flutter,mongodb,sqlite,fastapi,tailwind,bootstrap,mysql,postgres,docker,postman,vscode,supabase,obsidian,nginx,cloudflare,vercel,netlify" alt="My Tech Stack" />
+  </a>
+</p>
+
+### 🛠️ Technologies Breakdown
+- **Languages:** JavaScript, TypeScript, Python, PHP, Go, Kotlin, Java, Flutter
+- **Operating System:** Windows, Linux
+- **Frontend:** React, Vue.js, Next.js, TailwindCSS, Bootstrap
+- **Backend:** Laravel, CodeIgniter, FastAPI
+- **Database & DevOps:** MySQL, PostgreSQL, MongoDB, Docker, Nginx, Cloudflare, Vercel, Netlify
+- **Tools:** Postman, Vscode, Supabase, Obsidian
+
+---
+
+## Statistics
+
+<p align="center">
+  <a href="https://github.com/machfudn">
+    <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=machfudn&show_icons=true&theme=react&count_private=true" alt="Machfudin's GitHub Stats" />
+  </a>
+  <a href="https://github.com/machfudn">
+    <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=react&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/machfudn">
+    <img height="160" src="https://streak-stats.demolab.com/?user=machfudn&theme=react" alt="Machfudin's Streak Stats" />
+  </a>
+</p>
