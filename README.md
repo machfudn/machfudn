@@ -29,15 +29,27 @@
 
 <p align="center">
   <a href="https://github.com/machfudn">
-    <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=machfudn&show_icons=true&theme=react&count_private=true" alt="Machfudin's GitHub Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=machfudn&show_icons=true&theme=react&count_private=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=machfudn&show_icons=true&theme=default&count_private=true" />
+      <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=machfudn&show_icons=true&theme=default&count_private=true" alt="Machfudin's GitHub Stats" />
+    </picture>
   </a>
   <a href="https://github.com/machfudn">
-    <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=react&langs_count=6" alt="Top Languages" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=react&langs_count=6" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=default&langs_count=6" />
+      <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=default&langs_count=6" alt="Top Languages" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/machfudn">
-    <img height="160" src="https://streak-stats.demolab.com/?user=machfudn&theme=react" alt="Machfudin's Streak Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=machfudn&theme=react" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=machfudn&theme=default" />
+      <img height="160" src="https://streak-stats.demolab.com/?user=machfudn&theme=default" alt="Machfudin's Streak Stats" />
+    </picture>
   </a>
 </p>
