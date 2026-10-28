@@ -30,16 +30,16 @@
 <p align="center">
   <a href="https://github.com/machfudn">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=machfudn&show_icons=true&theme=react&count_private=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=machfudn&show_icons=true&theme=default&count_private=true" />
-      <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=machfudn&show_icons=true&theme=default&count_private=true" alt="Machfudin's GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-machfudn.vercel.app/api?username=machfudn&show_icons=true&theme=react&include_all_commits=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-machfudn.vercel.app/api?username=machfudn&show_icons=true&theme=default&include_all_commits=true" />
+      <img height="160" src="https://github-readme-stats-machfudn.vercel.app/api?username=machfudn&show_icons=true&theme=default&include_all_commits=true" alt="Machfudin's GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/machfudn">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=react&langs_count=6" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=default&langs_count=6" />
-      <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=default&langs_count=6" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-machfudn.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=react&langs_count=6&hide=html,css,scss,less,blade,svelte,tex,bibtex%20style,nunjucks,cmake,makefile,dockerfile,vue,shell,powershell,coffeescript" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-machfudn.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=default&langs_count=6&hide=html,css,scss,less,blade,svelte,tex,bibtex%20style,nunjucks,cmake,makefile,dockerfile,vue,shell,powershell,coffeescript" />
+      <img height="160" src="https://github-readme-stats-machfudn.vercel.app/api/top-langs/?username=machfudn&layout=compact&theme=default&langs_count=6&hide=html,css,scss,less,blade,svelte,tex,bibtex%20style,nunjucks,cmake,makefile,dockerfile,vue,shell,powershell,coffeescript" alt="Top Languages" />
     </picture>
   </a>
 </p>
